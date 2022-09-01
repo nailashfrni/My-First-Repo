@@ -4,4 +4,4 @@ NPM     : 2106638324
 
 Kelas   : B
 
-Hobi    : Membaca
+Hobi    : Menonton film
