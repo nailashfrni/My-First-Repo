@@ -1,3 +1,3 @@
-Nama    : Naila Shafirni Hidayat
-NPM     : 2106638324
+Nama    : Naila Shafirni Hidayat<br>
+NPM     : 2106638324<br>
 Kelas   : B
